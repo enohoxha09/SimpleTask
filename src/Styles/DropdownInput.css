@@ -1,0 +1,23 @@
+
+.dropdown-input-container {
+    margin-bottom: 15px;
+  }
+  
+  .dropdown-input-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .dropdown-input-field {
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .dropdown-input-field:focus {
+    outline: none;
+    border-color: #007bff;
+  }
+  
